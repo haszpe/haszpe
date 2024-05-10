@@ -38,10 +38,10 @@ Happy coding! 💻✨
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haszpe&theme=blueberry&hide=stars" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=haszpe&theme=blueberry&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haszpe&layout=compact&langs_count=8&card_width=320&theme=blueberry&hide=jupyter%20notebook" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haszpe&layout=compact&langs_count=8&card_width=320&theme=blueberry&hide=jupyter%20notebook" />
 </a>
 
 
