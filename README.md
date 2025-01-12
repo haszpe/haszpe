@@ -1,32 +1,32 @@
-### Hi! I'm Hania! 🌟
+### Hi! I'm Hania!
+Thanks for checking out my GitHub profile. 
 
-I'm thrilled to have you stop by my GitHub profile. 
-Here, you'll find a collection of projects that reflect my journey as an aspiring Data Scientist with a passion for bioinformatics and biotechnology. 
+Here, you'll find a glimps into my journey as an aspiring Data Scientist (with main focus on bioinformatics and biotechnology). 
 
-### About Me
+### About Me 📚
 ---
-- 👨‍💻 I'm a Junior Data Scientist with a unique blend of experience in stock market data analysis and ongoing studies in bioinformatics for my MSC degree.
+- I'm a Junior Data Scientist (Stock Market Data analysis & Bioinformatics blend).
 
-- 📚 My educational background includes a BA in Bioinformatics and coursework in Biotechnology of Plants.
+- Ongoing MSC in bioinformatics - background includes a BA in Bioinformatics and coursework in Biotechnology of Plants.
 
 
 ### Skills Snapshot
 ---
 - 🧠 My strengths lie in problem-solving and a genuine love for tackling algorithmics challenges.
 
-- 🛠️ Proficiency in Python programming, leveraging libraries such as Pandas, NumPy, and Joblib for data manipulation and analysis.
+- 🛠️ Proficiency in Python programming (Pandas, NumPy, and Joblib)
 
-- 📊 Experience in data visualization using Matplotlib and Seaborn.
+- 📊 Experience in data visualization (Matplotlib and Seaborn)
 
-- 📈  Basic proficiency in Tableau for creating interactive and insightful visualizations.
+- 🔍 Skills in database operations with SQL
 
-- 🔍 Skills in database operations with SQL.
+- 🇷 Proficient in R for statistical data analysis and hypothesis testing
 
-- 🇷 Proficient in R for statistical data analysis and hypothesis testing.
+-  📈  Basic proficiency in Tableau
 
-- 🌐 Understanding the complexities of big data infrastructure and capable of handling large datasets efficiently.
+- 🌐 Understanding the complexities of big data infrastructure and capable of handling large datasets efficiently
 
-- 🌿 Possess a profound understanding of genetics, genomics, plant biotechnology, and molecular biology, honed through academic coursework.
+- 🌿 Possess a profound understanding of genetics, genomics, plant biotechnology, and molecular biology, honed through academic coursework
 
 ---
 
